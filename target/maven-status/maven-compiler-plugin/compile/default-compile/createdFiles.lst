@@ -1,9 +1,0 @@
-net\okunivaxx\xenjoin\listeners\JoinListener.class
-net\okunivaxx\xenjoin\managers\PermissionsManager.class
-net\okunivaxx\xenjoin\listeners\MenuListener.class
-net\okunivaxx\xenjoin\XenJoin.class
-net\okunivaxx\xenjoin\commands\CommandHandler.class
-net\okunivaxx\xenjoin\managers\MessagesManager.class
-net\okunivaxx\xenjoin\XenJoinTabCompleter.class
-net\okunivaxx\xenjoin\managers\MenuManager.class
-net\okunivaxx\xenjoin\config\ConfigManager.class
